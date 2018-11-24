@@ -1,0 +1,16 @@
+rem *mount a start up drive on c drive 2 and boot it from
+"imgmount 2 desktop.img -size 512,63,255,4 -t hdd -fs none"
+" boot -l c"
+
+
+https://mega.nz/#!8yZCiIzJ   33Mb
+
+
+
+boot windows.img
+https://mega.nz/#!hyxHBIKD 1.44Mb
+
+
+cdrom pack
+imgmount d windows.iso -t cdrom
+https://mega.nz/#!F7x2lCDC 1Mb
