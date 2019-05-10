@@ -5,7 +5,7 @@ rem *mount a start up drive on c drive 2 and boot it from
 
 https://mega.nz/#!8yZCiIzJ!cWNZxjUg3g-SbkgdRfF9O1d_MOat8EyTio8mEN1B8k4   33Mb
 
-"imgmount 2 desktop.img -size 512,63,255,4 -t hdd -fs none"
+"imgmount 2 desktop.img -size 512,63,255,12 -t hdd -fs none"
  
 
 " boot -l c"
