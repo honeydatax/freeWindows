@@ -11,7 +11,7 @@ https://mega.nz/#!8yZCiIzJ!cWNZxjUg3g-SbkgdRfF9O1d_MOat8EyTio8mEN1B8k4   33Mb
 " boot -l c"
 
 https://mega.nz/#!ZrRAhSxa!eQ0SP88ll-9KP3aNAWIoMsHKnpShhhNUMSeXR3E-MaU
-
+100mb
 
 
 boot windows.img
